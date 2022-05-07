@@ -1,0 +1,22 @@
+body{
+    background-color:#FFFBEA}
+h6{color: #A5C8A4;}
+body{font-family: 'Abel', sans-serif;}
+
+
+.img-fluid1{
+height: 50px;
+width: 100px;
+
+}
+
+.img-fluid{
+height: 50px;
+width: 50px;
+margin-right: 25px;
+}
+
+img {
+    height: 600px;
+    width: 500px;
+}
